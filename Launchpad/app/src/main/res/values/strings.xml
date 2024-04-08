@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Launchpad</string>
+    <string name="find_job">Find Job</string>
+    <string name="interview">Interview Tools</string>
+    <string name="alumni">Alumni</string>
+    <string name="profile">Profile</string>
+</resources>

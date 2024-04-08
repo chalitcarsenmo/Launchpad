@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itJob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_briefcase"
+        android:title="@string/find_job" />
+
+    <item
+        android:id="@+id/itInterview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_interview"
+        android:title="@string/interview" />
+
+    <item
+        android:id="@+id/itAlumni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_alumni"
+        android:title="@string/alumni" />
+
+    <item
+        android:id="@+id/itProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_user_profile"
+        android:title="@string/profile" />
+
+</menu>
